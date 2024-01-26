@@ -1,12 +1,19 @@
 /* Esse arquivo tem que ser linkado no index antes da folha de estilo*/
 :root {
   /*pesquisar o atalho ctrl + f2*/
+  /*  FONT  */
+  --font-dm-sans: 'DM Sans', sans-serif;
+
+  /*  COLORS  */
   --texto: #000;
   --fundo-preto: #121212;
   --cinza: #b3b3b3;
   --cinza-suave: #242424;
   --branco: #fff;
 
-  --font-dm-sans: 'DM Sans', sans-serif;
-
+  --bg-icon: #131313;
+  --bg-arrow-color: rgba(0, 0, 07);
+  --btn-search: #242424;
+  --btn-subscribe: #a7a7a7;
+  
 }
